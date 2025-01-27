@@ -35,22 +35,20 @@ I love solving complex problems, learning new technologies, and working on colla
 
 ## 🔨 Projects
 
-Here are some of my favorite projects:
+### 1. **Dice Roll and Hold Game**
+- **Description**: A fun two-player dice roll game requiring both luck and patience. It features an attractive design and engaging gameplay.
+- **Live Demo**: [Play Dice Roll and Hold Game](https://dice-roll-mini-game.netlify.app/)
+- **Tech Stack**: HTML, CSS, JavaScript
 
-### 1. **Learning Management System (LMS)**
-- **Description**: A feature-rich LMS with dynamic routing, query parameter filtering, analytics using MongoDB's aggregation framework, and advanced CRUD operations.
-- **Tech Stack**: Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, JavaScript
-- **GitHub Repo**: [Link to Repo](#)
+### 2. **Guess My Number Mini Game**
+- **Description**: A mini-game where players guess a randomly generated number. It is simple, intuitive, and offers a touch of luck-based fun.
+- **Live Demo**: [Play Guess My Number](https://guess-my-number-game-mini.netlify.app/)
+- **Tech Stack**: HTML, CSS, JavaScript
 
-### 2. **E-Commerce Application**
-- **Description**: A scalable e-commerce platform with a robust cart system, payment gateway integration, and product filtering.
-- **Tech Stack**: React, Node.js, Express, MongoDB
-- **GitHub Repo**: [Link to Repo](#)
-
-### 3. **Blog Management System**
-- **Description**: A full-stack blogging platform with user authentication, post creation, comment management, and role-based access control.
-- **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-- **GitHub Repo**: [Link to Repo](#)
+### 3. **Motify: Music Streaming Web App**
+- **Description**: A frontend interface for a music streaming app inspired by Spotify. It includes features to explore motivational songs in a sleek, user-friendly layout.
+- **Live Demo**: [Explore Motify](https://strong-puffpuff-919c4d.netlify.app/)
+- **Tech Stack**: HTML, CSS, JavaScript
 
 ---
 
@@ -63,11 +61,7 @@ Here are some of my favorite projects:
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal7it&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal7it&layout=compact&theme=radical)
 
 ---
 
