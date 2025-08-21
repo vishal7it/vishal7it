@@ -17,7 +17,7 @@ I love solving complex problems, learning new technologies, and working on colla
 ### Frontend
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks & Libraries**: React.js, Bootstrap, TailwindCSS
-- **Other Tools**: Figma, Adobe XD, Git/GitHub
+- **Other Tools**:  Git/GitHub
 
 ### Backend
 - **Languages**: JavaScript (Node.js)
