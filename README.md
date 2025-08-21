@@ -40,8 +40,8 @@ I love solving complex problems, learning new technologies, and working on colla
 - **Live Demo**: [Play Dice Roll and Hold Game](https://dice-roll-mini-game.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
 
-### 2. **Guess My Number Mini Game**
-- **Description**: A mini-game where players guess a randomly generated number. It is simple, intuitive, and offers a touch of luck-based fun.
+### 2. **Guess My Number Game**
+- **Description**: A game where players guess a randomly generated number. It is simple, intuitive, and offers a touch of luck-based fun.
 - **Live Demo**: [Play Guess My Number](https://guess-my-number-game-mini.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
 
