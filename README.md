@@ -35,9 +35,9 @@ I love solving complex problems, learning new technologies, and working on colla
 
 ## 🔨 Projects
 
-### 1. **Dice Roll and Hold Game**
-- **Description**: A fun two-player dice roll game requiring both luck and patience. It features an attractive design and engaging gameplay.
-- **Live Demo**: [Play Dice Roll and Hold Game](https://dice-roll-mini-game.netlify.app/)
+### 1. **Shop-Flow**
+- **Description**: A blazing-fast web app built with React, TypeScript, and Vite. 🚀 Clean architecture, modular components, and optimized builds. An ecommerce site.
+- **Live Demo**: [Shop-Flow]([https://dice-roll-mini-game.netlify.app/](https://cerulean-raindrop-ec69fb.netlify.app/))
 - **Tech Stack**: HTML, CSS, JavaScript
 
 ### 2. **Guess My Number Game**
@@ -50,6 +50,10 @@ I love solving complex problems, learning new technologies, and working on colla
 - **Live Demo**: [Explore Motify](https://strong-puffpuff-919c4d.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
 
+### 1. **Dice Roll and Hold Game**
+- **Description**: A fun two-player dice roll game requiring both luck and patience. It features an attractive design and engaging gameplay.
+- **Live Demo**: [Play Dice Roll and Hold Game](https://dice-roll-mini-game.netlify.app/)
+- **Tech Stack**: HTML, CSS, JavaScript
 ---
 
 ## 🌐 Connect With Me
