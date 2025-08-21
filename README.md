@@ -55,7 +55,7 @@ I love solving complex problems, learning new technologies, and working on colla
 ## 🌐 Connect With Me
 
 - **Portfolio**: [https://shimmering-manatee-ac310d.netlify.app/](https://shimmering-manatee-ac310d.netlify.app/)
-- **LinkedIn**: https://www.linkedin.com/in/vishalsharma321/)]((https://www.linkedin.com/in/vishalsharma321/
+- **LinkedIn**: [https://www.linkedin.com/in/vishalsharma321/](https://www.linkedin.com/in/vishalsharma321/)
 - **GitHub**: [https://github.com/vishal7it](https://github.com/vishal7it)
 - **Email**: [vishal7it@gmail.com](mailto:vishal7it@gmail.com)
 
