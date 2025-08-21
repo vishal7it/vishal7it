@@ -37,7 +37,7 @@ I love solving complex problems, learning new technologies, and working on colla
 
 ### 1. **Shop-Flow**
 - **Description**: A blazing-fast web app built with React, TypeScript, and Vite. 🚀 Clean architecture, modular components, and optimized builds. An ecommerce site.
-- **Live Demo**: [Shop-Flow]([https://dice-roll-mini-game.netlify.app/](https://cerulean-raindrop-ec69fb.netlify.app/))
+- **Live Demo**: [Shop-Flow](https://cerulean-raindrop-ec69fb.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
 
 ### 2. **Guess My Number Game**
