@@ -50,7 +50,7 @@ I love solving complex problems, learning new technologies, and working on colla
 - **Live Demo**: [Explore Motify](https://strong-puffpuff-919c4d.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
 
-### 1. **Dice Roll and Hold Game**
+### 4. **Dice Roll and Hold Game**
 - **Description**: A fun two-player dice roll game requiring both luck and patience. It features an attractive design and engaging gameplay.
 - **Live Demo**: [Play Dice Roll and Hold Game](https://dice-roll-mini-game.netlify.app/)
 - **Tech Stack**: HTML, CSS, JavaScript
